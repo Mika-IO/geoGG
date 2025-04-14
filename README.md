@@ -1,35 +1,35 @@
 # 🌍 geoGG
 
-**Minigames interativos de geografia e história.**  
-Explore o mundo, teste seus conhecimentos e desafie seus amigos!
+**Interactive geography and history minigames.**  
+Explore the world, test your knowledge, and challenge your friends!
 
-## 🎮 Jogos Recomendados
+## 🎮 Recommended Games
 
-Aqui estão alguns jogos online que servem de inspiração para o projeto:
+Here are some online games that serve as inspiration for this project:
 
 - 🌎 [**Worldle**](https://worldle.teuteuf.fr/)  
-  Adivinhe o país pelo seu formato e veja a distância do país correto.
+  Guess the country by its shape and see how far your guess is from the correct answer.
 
 - 🗺️ [**Seterra**](https://www.seterra.com/)  
-  Quizzes completos sobre países, capitais, bandeiras, estados e muito mais.
+  Complete quizzes about countries, capitals, flags, states, and much more.
 
 - 📍 [**GeoGuessr**](https://www.geoguessr.com/pt)  
-  Explore locais reais do Street View e tente adivinhar onde está no mundo.
+  Explore real-life locations via Street View and guess where you are in the world.
 
 - 🌐 [**Globle**](https://globle-game.com/)  
-  Descubra o país misterioso com dicas de proximidade geográfica.
+  Find the hidden country using geographic proximity clues.
 
 - 🧠 [**Wikitrivia**](https://wikitrivia.tomjwatson.com/)  
-  Organize eventos históricos em ordem cronológica com base em dados da Wikipedia.
+  Place historical events in chronological order using data from Wikipedia.
 
 ---
 
-## 🚧 Em breve...
+## 🚧 Coming Soon...
 
-- Minigames próprios de geografia e história diretamente no navegador.
-- Pontuação, rankings e desafios diários.
-- Modo multiplayer para jogar com amigos.
+- Custom geography and history minigames playable in your browser.
+- Scoring system, leaderboards, and daily challenges.
+- Multiplayer mode to play with friends.
 
 ---
 
-> Criado com ❤️ para quem ama mapas, história e desafios.
+> Created with ❤️ for map lovers, history buffs, and knowledge seekers.
